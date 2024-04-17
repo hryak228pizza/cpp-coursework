@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCalculator">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBIQAAAAAgIAAAAACIIAAgAEAAQAAAAAIAAAAQAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDeviationCalculator">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStaticMath">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMeanAlgCalculator">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAQAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMeanGeomCalculator">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMedianCalculator">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModeCalculator">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRandomCalculator">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABBAAAAACCAAgAAAAQAAAAAAAAEAAA=</HashCode>
+      <FileName>calc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
